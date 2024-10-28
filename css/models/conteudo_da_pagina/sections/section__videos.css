@@ -1,0 +1,18 @@
+.video{
+    margin-top: 3rem;
+    width: 70%;
+    margin: 3rem auto;
+    background: #0f0f0f;
+    font-family: 'Arial', sans-serif; /* Substitua pela fonte desejada */
+    color: #ffffff; /* Cor do texto para melhor contraste */
+    border: 1px solid #F7DF1E;
+    padding: 2rem;
+}
+
+.video .video__titulo{
+    margin: 3rem 0;
+}
+
+.video a img{
+    width: 100%;
+}

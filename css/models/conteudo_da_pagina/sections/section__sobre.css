@@ -1,0 +1,21 @@
+.sobre{
+    width: 70%;
+    margin: 0 auto;
+    line-height: 1.5;
+    border: 1px solid #F7DF1E;
+    padding: 2rem;
+    background: #0f0f0f;
+    font-family: 'Arial', sans-serif; /* Substitua pela fonte desejada */
+    color: #ffffff; /* Cor do texto para melhor contraste */
+}
+
+.sobre article{
+    font-size: 1.1rem;
+}
+
+.sobre article p{
+    padding-top: 1rem;
+    font-size: 1rem; 
+    line-height: 1.6; 
+    color: #f0f0f0; 
+}

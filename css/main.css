@@ -1,0 +1,7 @@
+@import url('models/reset/reset.css');
+@import url('models/cabecalho/header.css');
+@import url('models/conteudo_da_pagina/sections/conteudo.css');
+@import url('models/conteudo_da_pagina/sections/section__sobre.css');
+@import url('models/conteudo_da_pagina/sections/section__videos.css');
+@import url('models/conteudo_da_pagina/sections/section__cards.css');
+@import url('models/mideaquery/moba.css');

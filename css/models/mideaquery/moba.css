@@ -1,0 +1,55 @@
+
+/* Responsividade */
+@media (max-width: 768px) {
+    .header__container {
+        flex-direction: column; 
+        align-items: flex-start;
+    }
+
+    .nav {
+        flex-direction: column; 
+        width: 100%;
+    }
+
+    .card {
+        flex: 1 1 100%; 
+        margin: 0.5rem 0; 
+    }
+
+    .main__logo--img img {
+        width: 40px; 
+    }
+
+    
+    .sobre__titulo, .video__titulo, .vantagens__titulo {
+        font-size: 1.5rem;
+    }
+}
+
+@media (max-width: 408px) {
+    .header__container {
+        flex-direction: column; 
+        align-items: flex-start;
+    }
+    .sobre{
+        width: 100%;
+    }
+
+    .video{
+        width: 100%;
+        padding: 0.9rem;
+    }
+
+    .video .video__titulo{
+        font-size: 1rem;
+    }
+
+    .vantages{
+        width: 100%;
+    }
+
+    .vantages .vantagens__titulo{
+        padding: 0.5rem 0;
+    }
+    
+}

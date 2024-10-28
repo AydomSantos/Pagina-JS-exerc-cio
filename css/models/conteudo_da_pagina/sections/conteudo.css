@@ -1,0 +1,8 @@
+main{
+    padding: 2rem;
+}
+
+main .main__logo--img{
+    text-align: center;
+    margin: 2rem 0;
+}
